@@ -1,0 +1,4 @@
+RA011$Sabe diseñar aplicaciones gráficas haciendo uso de Swing
+RA012$Aplica los conceptos de clase, objeto y referencia a objeto
+RA013$Usa los conceptos de herencia para diseñar aplicaciones más flexibes y reutilizables
+RA014$Usa la gestión de excepciones para hacer aplicaciones robustas y legibles
