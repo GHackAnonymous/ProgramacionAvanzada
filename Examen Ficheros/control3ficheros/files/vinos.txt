@@ -1,0 +1,35 @@
+Baigorri;Baigorri, S.A., Bodegas;Tinto Crianza;2005;10.5;false
+Barón de Ley;Barón de Ley, S.A., Bodegas;Tinto Reserva;2001;9;false
+Barón de Ley;Barón de Ley, S.A., Bodegas;Tinto Reserva;2005;9.5;true
+Viña Pomal;Bilbaínas, S.A., Bodegas;Tinto Reserva;2000;9.95;false
+La Vicalanda;Bilbaínas, S.A., Bodegas;Tinto Reserva;2000;14.75;false
+Viña Zaco;Bilbaínas, S.A., Bodegas;Tinto Reserva;1997;10;false
+Cerrillo Verballe;Afersa, S.A., Bodegas;Tinto Crianza;2007;5.5;true
+Tierra de Fernández-Gómez;Agrícola de Labastida, S.L.;Tinto Crianza;2007;9.5;true
+Imperial;C.V.N.E.;Tinto Reserva;2000;9.95;false
+Cune Crianza;C.V.N.E.;Tinto Crianza;2004;5.75;false
+Imperial;C.V.N.E.;Tinto Gran Reserva;1996;27.9;false
+Viña Real;C.V.N.E.;Tinto Crianza;2003;6.45;false
+Monopole;C.V.N.E.;Blanco;2005;4.4;false
+Campillo;Campillo, S.L., Bodegas;Tinto Crianza;2001;8.95;false
+Campillo;Campillo, S.L., Bodegas;Tinto Gran Reserva;1996;32.6;false
+Campillo;Campillo, S.L., Bodegas;Tinto Reserva;1998;14.95;false
+Campillo reserva especial;Campillo, S.L., Bodegas;Tinto Reserva;1996;24.5;false
+Remélluri;Granja Ntra. Sra. Remelluri, S.A.;Tinto Reserva;2005;13;true
+Remélluri;Granja Ntra. Sra. Remelluri, S.A.;Tinto Gran Reserva;2000;35.5;false
+Lan D-12;Lan, S.A., Bodegas;Tinto Crianza;2007;10;false
+Luis Alegre;Luis Alegre, S.A., Bodegas;Tinto Cosechero;2005;4.5;false
+Marqués de Murrieta;Marqués de Murrieta, S.A., Bodegas;Tinto Reserva;2002;16;false
+Dalmau;Marqués de Murrieta, S.A., Bodegas;Tinto Reserva;2002;39.9;false
+Marqués de Murrieta;Marqués de Murrieta, S.A., Bodegas;Tinto Reserva;2005;16;true
+Barón de Chirel;Marqués de Riscal, S.A.;Tinto Reserva;2002;42.5;false
+Marqués de Riscal;Marqués de Riscal, S.A.;Tinto Reserva;2002;12;false
+Conde de Valdemar;Martínez Bujanda, S.A., Bodegas;Tinto Crianza;2003;6;false
+Conde de Valdemar;Martínez Bujanda, S.A., Bodegas;Tinto Reserva;2001;9.95;false
+Martínez Lacuesta;Martínez Lacuesta, S.A., Bodegas;Tinto Crianza;2006;7;true
+Miguel Merino - Viñas jóvenes;Miguel Merino, S.L., Bodegas;Tinto Crianza;2007;11;false
+Muga;Muga, S.A., Bodegas;Tinto Crianza;2002;11.5;false
+Muga;Muga, S.A., Bodegas;Tinto Reserva;2001;18.95;false
+Prado Enea;Muga, S.A., Bodegas;Tinto Gran Reserva;1996;27.5;false
+Muga;Muga, S.A., Bodegas;Tinto Gran Reserva;1997;32.7;false
+Cerro Añón;Olarra, S.A., Bodegas;Tinto Crianza;1999;6;false
